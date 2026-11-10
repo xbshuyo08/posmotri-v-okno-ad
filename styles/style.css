@@ -281,6 +281,7 @@ ol {
   display: block;
   color: inherit;
   text-decoration: none;
+  cursor: pointer;
 }
 
 .content__card-link_current,
